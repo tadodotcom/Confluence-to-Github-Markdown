@@ -8,9 +8,9 @@
   "main": "Confluence-html-to-github-markdown.js",
   "repository": "git@github.com:EWhite613/Confluence-to-Github-Markdown.git",
   "dependencies": {
+    "fs-extra": "^7.0.0",
     "path": "^0.12.7",
-    "sync-exec": "^0.6.2",
-    "fs-extra":"^7.0.0"
+    "sync-exec": "^0.6.2"
   },
   "devDependencies": {},
   "keywords": [

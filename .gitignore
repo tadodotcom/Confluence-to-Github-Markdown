@@ -71,3 +71,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Pandadoc markdown export
+Markdown
